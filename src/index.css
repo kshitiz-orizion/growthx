@@ -1,0 +1,16 @@
+@import url(https://db.onlinewebfonts.com/c/040a78b437acd0433612f92e61d04a1b?family=Gilroy-Medium);
+
+@import "react-dropdown/style.css";
+
+@import 'tailwindcss/base';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 12px;
+}
